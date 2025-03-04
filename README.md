@@ -1,7 +1,6 @@
 Overview
 
-This project focuses on predicting whether a customer will purchase an insurance policy based on various factors such as age, driving history, 
-vehicle attributes, and other demographic information. The dataset used for this project contains information about potential insurance buyers, 
+This project focuses on predicting whether a customer will purchase an insurance policy based on various factors such as age, vehicle attributes, and other demographic information. The dataset used for this project contains information about potential insurance buyers, 
 and the goal is to build a predictive model that helps insurance companies optimize their marketing efforts.
 
 Dataset:
